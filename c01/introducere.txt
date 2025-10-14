@@ -1,0 +1,7 @@
+—> context de backend
+
+—> runtime de javascript, bazat pe V8 engine (sta la baza tuturor browserelor care folosesc chromium)
+
+—> permite rularea codului inafara browserului
+
+—> nodejs —> bagi cod js —> intoarce rezultatul
