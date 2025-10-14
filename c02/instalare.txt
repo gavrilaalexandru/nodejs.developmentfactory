@@ -1,0 +1,3 @@
+—> https://nodejs.org/en/download
+
+—> versiunea LTS recomandata
